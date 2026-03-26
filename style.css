@@ -42,7 +42,7 @@ body {
   position: sticky;
   top: 0;
   z-index: 1000;
-  backdrop-filter: greyscale;
+  backdrop-filter: blur;
 }
 
 .section-nav a {
