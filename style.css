@@ -244,6 +244,16 @@ html {
   border-radius:15px;
   box-shadow:0 4px 15px rgba(0,0,0,0.3);
 }
+.volunteer-doc{
+  text-align:center;
+  margin-top:20px;
+}
+
+.volunteer-doc h3{
+  margin-bottom:10px;
+  color:#00ffe5;
+}
+
 .btn{
   display:inline-block;
   padding:10px 20px;
